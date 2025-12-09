@@ -1,5 +1,7 @@
 # VirtuBot
 
+Made by Falous-dev
+
 **Faisons de VirtuBot un projet communautaire**
 
 VirtuBotPy est un bot Discord en Python que vous pouvez utiliser et modifier librement. 🫵
