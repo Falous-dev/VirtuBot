@@ -20,3 +20,13 @@ En utilisant ce projet, vous acceptez l’entière responsabilité de son usage.
    cd VirtuBot
    ```
    ....
+
+
+## Liste des commandes
+/help
+/say
+/hello
+/sayembed
+/ban
+/kick
+.....
